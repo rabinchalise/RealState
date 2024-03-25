@@ -32,4 +32,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Project Image]("assets/images/anil.jpg")
+![Project Image]("/Users/chaliserabin/Documents/flutterDev/flutter_projects/realstate/assets/images/anil.jpg")
